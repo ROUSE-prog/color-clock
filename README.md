@@ -1,4 +1,7 @@
+
 # Color Clock
+https://github.com/user-attachments/assets/e43cf6dd-86e3-4c80-bc69-e50c8e173ae1
+
 
 A dynamic glassmorphism-inspired digital clock built with React, Vite, and date-fns.
 
